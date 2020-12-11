@@ -40,6 +40,19 @@
      <string>OFF</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="ShowTime">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>100</y>
+      <width>99</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>show time</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menuBar">
    <property name="geometry">
